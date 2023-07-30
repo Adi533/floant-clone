@@ -1,0 +1,21 @@
+.container-main {
+    display: fixed;
+}
+
+.container-product{
+    display: flex;
+    justify-content: flex-start;
+}
+.small-title {
+    color: rgb(186, 183, 183);
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.title {
+    padding-left: 50px;
+    padding-top: 20px;
+    color: #5eca82;
+    font-family: serif;
+}
+

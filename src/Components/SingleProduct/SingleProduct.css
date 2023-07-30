@@ -1,0 +1,30 @@
+.SingleProduct{
+    display:flex;
+    justify-content: flex-start;
+    position: relative;
+
+}
+.image{
+    position: absolute;
+    right: 0px;
+    left: 80px;
+    top: 50px;
+    width: 30%;
+    padding: 20px;
+}
+.data{
+    position: absolute;
+    top: 50px;
+    right: 0px;  
+    width: 50%; 
+}
+.normal{
+    background-color: rgb(184, 255, 184);
+    padding: 10px;
+    cursor: pointer;
+    border-radius:  5px;
+    border: none;
+    margin-top: 20px;
+    position: relative;
+    left: -9px;
+}

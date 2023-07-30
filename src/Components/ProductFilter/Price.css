@@ -1,0 +1,26 @@
+.sidebar-title{
+    text-align: center;
+    position: relative;
+    right: 39px;
+    color: #079d39;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: underline;
+    margin-bottom: 0px;
+}
+.check{
+    position: relative;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 80px;
+}
+.checkmark{
+    position: relative;
+    left: 100px;
+}
+.sidebar-label-container{
+    position: relative;
+    right:40px;
+    padding: 0px;
+    margin: 0px;
+}

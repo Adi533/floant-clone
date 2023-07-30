@@ -1,0 +1,97 @@
+
+
+.card {
+    border: 2px solid #ededed;
+    padding: 20px;
+    cursor: pointer;
+    position: relative;
+    text-decoration: none;
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    margin-right: 0px;
+    flex-direction: row;
+    justify-content: flex-start;
+    z-index: -2;
+    text-decoration: none;
+}
+.cards__container{
+    background-color: #fff;
+    width: 250px;
+    margin: 50px;
+    position: relative;
+    margin-right: -28px;
+    
+}
+.circle{
+    background-color: #4fc06d;
+    border-radius: 100%;
+    text-align: center;
+    width: 50px;
+    position: absolute;
+    padding-top: 10px;
+    right:70px;
+    top: 10px;
+    height: 40px;
+    z-index: 100;
+
+}
+.small-title{
+    color: rgb(186, 183, 183);
+    padding-left: 50px;
+    padding-top: 20px;
+}
+.title{
+    padding-left: 50px;
+    padding-top: 20px;
+    color: #5eca82;
+    font-family: serif;
+}
+.cards__item__img{
+    width: 250px;
+    position: relative;
+    left: -40px;
+}
+.cards__item__info{
+    width: 10px;
+    text-decoration: none;
+}
+.cards__item__text{
+    font-size: 18px;
+    text-align: left;
+    width: 250px;
+    font-family: serif;
+}
+p{
+    padding: 0px;
+    margin: 0px;
+}
+.type{
+    color: rgb(186, 183, 183);
+}
+.stars{
+    font-size: 18px;
+}
+.addtocart{
+    display: flex;
+    justify-content: flex-start;
+    padding-bottom: 15px;
+}
+.atc{
+    margin-left: 10px;
+    position: relative;
+    left: 10px;
+    border-radius: 7px ;
+    font-size: 20px;
+    color:rgb(74, 68, 68) ;
+    border: none;
+    background-color: #5eca82;
+    cursor: pointer;
+
+}
+Link{
+    text-decoration: none;
+    list-style: none;
+}

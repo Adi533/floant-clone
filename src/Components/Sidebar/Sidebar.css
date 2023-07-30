@@ -1,0 +1,37 @@
+.sidebar {
+    width: 348px;
+    height: 100vh;
+    border-right: 2px solid #e5e5e5;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+input {
+    padding: 12px 20px;
+    border: none;
+    background: #f7f6f6;
+    outline: none;
+    margin-right: 20px;
+    margin-left: 80px;
+    margin-top: 40px;
+    border-radius: 5px;
+    font-size: 16px;
+    position: relative;
+    width: 10rem;
+  }
+.green{
+    color: #079d39;
+}
+.texts{
+    margin-right: 20px;
+    margin-left: 120px;
+    position: relative;
+    right: 16px;
+    width: 13rem;
+    margin-top: 20px;
+}
+.texts p{
+    padding-left: 0px;
+    padding: 10px;
+}

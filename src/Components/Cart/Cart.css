@@ -1,0 +1,42 @@
+.cart-container{
+    text-align: center;
+    background-color: #f2eeee;
+
+    height: 82vh;
+}
+.heading{
+    align-items: center;
+    text-align: center;
+    margin: 0px;
+    padding: 20px;
+    color: #5eca82;
+}
+li{
+    list-style: none;
+    color:#5eca82;
+    padding:20px;
+    position: relative;
+    left: 220px;
+}
+.total-price{
+    color: #5eca82;
+}
+.hold{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+button{
+    position: relative;
+    right: 320px;
+    bottom: 0px;
+    margin-left: 10px;
+    border-radius: 7px ;
+    font-size: 20px;
+    color:rgb(74, 68, 68) ;
+    border: none;
+    background-color: #5eca82;
+    cursor: pointer;
+    padding-left: 10px;
+    padding-right: 10px;
+}

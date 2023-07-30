@@ -1,0 +1,59 @@
+.navbar {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    padding : 15px 165px 15px 165px;
+    
+
+}
+.navbar-container {
+    display: flex;
+    width: 50%;
+    justify-content: flex-start;
+    text-align: center;
+
+}
+.navbar-container_2 {
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+
+}
+.count{
+    text-decoration: none;
+    list-style: none;
+}
+.img_navbar{
+    height: 61px;
+}
+.box{
+    padding: 20px;
+}
+.i_navbar{
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 200;
+    font-style: normal;
+    font-family: sans-serif;
+}
+.green{
+    color: #079d39;
+}
+.icon{
+    position: relative;
+    top: 0px;
+    right: 25px;
+}
+.count-text{
+    position: relative;
+    top: -23px;
+    right: 41px;
+}
+
+.profile{
+    position: relative;
+    top: 0px;
+    right: 5px;
+}
